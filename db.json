@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Elvis",
+      "empresa": "Empresa01",
+      "email": "einoa04@gmail.com",
+      "telefono": "829-763-9421",
+      "notas": "Necesita una pagina web\n",
+      "id": 1
+    }
+  ]
+}
